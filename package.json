@@ -1,0 +1,22 @@
+{
+  "name": "word-filler",
+  "version": "1.0.0",
+  "description": "This utility consumes a source text to generate randomized Lorum Ipsum style filler text.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/electricessence/word-filler.git"
+  },
+  "author": "electricessence",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^7.0.18",
+    "mocha": "^3.3.0",
+    "ts-node": "^3.0.4",
+    "typescript": "^2.3.2"
+  },
+  "dependencies": {
+    "@types/random-js": "^1.0.28",
+    "random-js": "^1.0.8"
+  }
+}
